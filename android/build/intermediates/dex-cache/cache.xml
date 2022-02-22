@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_f3a995151cf0e0d04bc3c7fb8bc6b46e0abf45e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.46.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_cc97ef5b7ce0d6f3890ef10b54779d8b41c64c3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-26.1.0_db8aaaa41c5c4ad5517bfd02cb7fb7c5a911040f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Glehn/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_d7dacb04a00158dd3d6d1ba55b32a328d4088d56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Glehn/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_38800f8dc1f0d554b99d21511f1942401ae397be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.2.0_567eb04fb46f9d9552b16e082ff39052c8a0c715.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-11.0.4_9732ba1fe03fcacf81cbe29cdae9c5e349de940a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-26.1.0_86179d37562bf8c96bfe7971bd37169e54906922.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/15.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d8fe6d91310b54734f454dd490c3c869f6290576">
+        <dex dex="/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-15.0.1_bf88eb31c83ceb7969de573d6585cee91dd20068.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-11.0.4_084734140694d07fd4f9b91402bcb6c2ad6291e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/15.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4d4d98a0428b2e620e6b4a228ef9f7cb2f0debd2">
+        <dex dex="/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-15.0.1_8e11148f98a80bf46bdf638d7a5ad5888be145d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_e980606f5b02cc9beee9a09b820e1d7f90502a6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dd282bdeaa904c59d77e57dedd7e0a241c9b679d">
+        <dex dex="/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-11.0.4_d1b585c1a8aafda6955675e3f82ef4663d40e0e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_668271a5f27530617a9c8d1a8a92fa5759499aae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.0_855dbd550373f59522b9ee9d3fc90ccc699aa600.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_8e1d27c444f3dc54d824fecd349db42a1c9e5154.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-26.1.0_6535ce3a8c5a7a3cf850a7acef1ca027a3ef1c9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.2.0_dcddf09c42e87017c99ba2c9c441ab24c6f15aa7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/build/intermediates/exploded-aar/PartyBank/react-native-device-info/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="98038972359c20a48b4be81013c1ae698370fd31">
+        <dex dex="/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/build/intermediates/pre-dexed/debug/PartyBank-react-native-device-info-unspecified_c535c092ac75c915c08d239805e326e6d89dabc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-26.1.0_6548bf71977092c97d084b82618682b124315eed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-26.1.0_a26a41b75dd68b7c0dcda8f8f957f3714218cf1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_f7199a185888602edcbb47b98bda6968607638c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_2529dc6c29e0d5245dc36dd4752f074808269b02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Glehn/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_24fa04bcd5324a42f0076aa909ef08e8f9069b16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/exploded-aar/PartyBank/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f2cf527de8d0bd35d72088fafea02395ba4a9eec">
+        <dex dex="/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/pre-dexed/debug/PartyBank-react-native-vector-icons-unspecified_253a199b3d15187da83dd1e90c6192b3ed6d6f7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/build/intermediates/exploded-aar/PartyBank/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f2cf527de8d0bd35d72088fafea02395ba4a9eec">
+        <dex dex="/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/build/intermediates/pre-dexed/debug/PartyBank-react-native-vector-icons-unspecified_5202692ad2a8b37a0cbecd3723f8323f61ce0820.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Glehn/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_618dd12ca649cd237ac297a71af4f1b71852bd38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.46.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c5526d30278eb171f4a1325bd6b927c9057c91f4">
+        <dex dex="/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.46.4_3599f59e08801afb31b796e7e09b3300506eb100.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d8942ee348aaa9341f08f7e2437063893fe27542">
+        <dex dex="/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-11.0.4_ac8de899bbcaa01637561d273a88c8b7c936d511.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_a7991ae5618f30570890e2767412679e097331ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Glehn/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_f3db7e5ce6d4c93dee2d916f3084613b7c2f38ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_d026eec868fd5e8288bed5821a73cad14eb6320e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/exploded-aar/PartyBank/nfc-ndef-react-native/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fc3cbb1a293f4d6e2bdfd0e2eba36f2d9e3ded98">
+        <dex dex="/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/pre-dexed/debug/PartyBank-nfc-ndef-react-native-unspecified_5fd9f973c05ff3de9dfee679ab8c27e0ca149765.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.46.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c5526d30278eb171f4a1325bd6b927c9057c91f4">
+        <dex dex="/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.46.4_3810af12f5f1dccb426132486d51ff69b453215b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/15.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="32ac362d6f6a636ab4f737a90cda4a35c9402025">
+        <dex dex="/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-15.0.1_cd498c781c2575af187c6ab3265111f3c1b1cc22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-stats/15.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c1e9d140d3260619ce2fa991d30b14b531d61dec">
+        <dex dex="/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-stats-15.0.1_a48befb60cd4ca3d724132bf470113a32ebd986f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-11.0.4_495eb81a98e4e749010bc13141500820d4a29527.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/15.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6d468b69c3baff6635f9a7d09a558ced41fdbdf4">
+        <dex dex="/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-15.0.1_dd325e52f8b73184b3c97c30c4eb5a203e6c7c82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-26.1.0_8cd507f201215907ba644e5f67119e2c69dbf016.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Glehn/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_22726aafd2229f884eebba983d42699416637863.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Glehn/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_f430c082248fe4e840987ef71c0e12b095b11cd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/15.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8d813c05361147f6f515f749df19223cd6256314">
+        <dex dex="/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-15.0.1_c927f796d2b1a608fc3e3d5e31204c1979daeb8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_a9bb75a7e28cf75f152917296e8e3f93938b912b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.2.0_6f6aa699fc657882bc8cb501e1223b625e11739c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.0_371d972be4b2b9ab04e4b31670da4e47c8aa1f4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.46.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_60b2331f1a628123757ac19383bbcf9064e83604.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.2.0_9f1367eff1729dfaa1d60b74779683c4f9dd6106.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_125c085419fb3eae7f6ee74c28fed30d05764e02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_7bbeb28ca01cb8133b564cd9ba303073ac56d35c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Glehn/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_6f4912141d26e232f080e488fb694d2ccb4973ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_0080fa6cb96b3b72d7db44feb7816d1a96e02d15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/exploded-aar/PartyBank/react-native-device-info/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="98038972359c20a48b4be81013c1ae698370fd31">
+        <dex dex="/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/pre-dexed/debug/PartyBank-react-native-device-info-unspecified_38d96b6591e28fc4d36e9a93e5944e3b2b174637.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Glehn/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_f481f594d468467c36f70ed626ec6782ea2b5dd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/build/intermediates/exploded-aar/PartyBank/nfc-ndef-react-native/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fc3cbb1a293f4d6e2bdfd0e2eba36f2d9e3ded98">
+        <dex dex="/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/build/intermediates/pre-dexed/debug/PartyBank-nfc-ndef-react-native-unspecified_35687569d1fe69ffb19a25bc962d93f8cff17432.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Glehn/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_d2f488b84215d43a13ff158fc7950ef55a93070f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.2.0_498606ea3acfbc729f397d02b4c7d820ac48d6f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_484c4aa9397e108358f9004f64787cf2bf8d2c83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/build/intermediates/exploded-aar/android.arch.lifecycle/runtime/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/build/intermediates/pre-dexed/debug/android.arch.lifecycle-runtime-1.0.0_3176a5907b98334a284ab57aafeeac1701a0815f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_7839e1c273de8469c7f8078069af7ed73d662166.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.2.0_34b1f15fb498680ba2d83ab5db7891f756919df2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Glehn/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_3b56da409c21a42e1a689b6a12bfd36449b44cbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_7980a517f2b8a1265f8841833a8ac71961de64d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_0706f1dbbb097e554984b2a51ea6d52b1f8c09b4.jar" />
+    </item>
+
+</items>

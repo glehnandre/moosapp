@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/Glehn/Documents/Pessoal/14-PROJETOS/5-Backup/PartyBank/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/Glehn/Documents/Pessoal/14-PROJETOS/5-Backup/PartyBank/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/Glehn/Documents/Pessoal/14-PROJETOS/5-Backup/PartyBank/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/Glehn/Documents/Pessoal/14-PROJETOS/5-Backup/PartyBank/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

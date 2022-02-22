@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_old.png",
+        "source": "/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/src/main/res/mipmap-hdpi/ic_launcher_old.png"
+    },
+    {
+        "merged": "/Users/Glehn/Documents/Pessoal/14-PROJETOS/5-Backup/PartyBank/android/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/Glehn/Documents/Pessoal/14-PROJETOS/5-Backup/PartyBank/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_old.png",
+        "source": "/Users/Glehn/Documents/Pessoal/14-PROJETOS/7-MOOS/PartyBank/android/app/src/main/res/mipmap-hdpi/ic_launcher_old.png"
+    }
+]

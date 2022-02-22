@@ -1,0 +1,4 @@
+#Tue Apr 24 09:07:24 BRT 2018
+base.0=/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/transforms/dex/release/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/transforms/dex/release/folders/1000/1f/main/classes.dex

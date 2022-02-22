@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/res/merged/release/xml/preferences.xml",
+        "source": "/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.46.4/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/build/intermediates/res/merged/release/xml/nfc_tech_filter.xml",
+        "source": "/Users/Glehn/Documents/Pessoal/14-PROJETOS/CartoesConsumo/PartyBank/android/app/src/main/res/xml/nfc_tech_filter.xml"
+    }
+]

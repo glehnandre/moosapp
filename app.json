@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "sdkVersion": "19.0.0",
+    "icon": "./img/dollar.jpeg",
+    "loading": {
+      "hideExponentText": false,
+      "backgroundColor": "white"
+    },
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "packagerOpts": {
+      "assetExts": [
+        "ttf"
+      ]
+    },
+    "androidStatusBarColor": "#334393",
+    "androidStatusBar": {
+      "barStyle": "light-content",
+      "backgroundColor": "#334393"
+    }
+  },
+  "name": "MooS",
+  "displayName": "MooS"
+}
